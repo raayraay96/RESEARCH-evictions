@@ -346,7 +346,7 @@ const JudicialTab: React.FC = () => {
                           <h4 className="font-semibold mb-2">Statistical Methodology Planned</h4>
                           <ul className="text-sm space-y-1 text-gray-700">
                             <li>• Calculate standard deviations from county averages</li>
-                            <li>• Identify judges >2 standard deviations from norm</li>
+                            <li>• Identify judges &gt;2 standard deviations from norm</li>
                             <li>• Analyze demographic patterns in decisions</li>
                             <li>• Test correlation with attorney representation</li>
                             <li>• Examine temporal patterns</li>
