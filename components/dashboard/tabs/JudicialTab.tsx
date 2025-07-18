@@ -1,4 +1,5 @@
 import React from 'react';
+import { Fragment } from 'react/jsx-runtime';
 
 const JudicialTab: React.FC = () => {
     return (
